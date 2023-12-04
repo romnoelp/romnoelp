@@ -28,7 +28,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@v3.33
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          # token: ${{ secrets.METRICS_TOKEN }}
+          token: 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
           user: Readme-Workflows
           repo: recent-activity
           template: markdown
