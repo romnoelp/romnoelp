@@ -11,7 +11,7 @@ settings:
     text: "Last Updated: {DATE}"
     format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
   commit_name: "readme-bot"
-  commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
+  commit_email: "petracorta.rmnl@gmail.com"
   line_prefix: "{NUM}. "
   ignored_repos:
     - username/repo
