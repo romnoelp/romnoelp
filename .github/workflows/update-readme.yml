@@ -20,7 +20,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          CONFIG_FILE: 'update-readme.config.yml'
+          CONFIG_FILE: '.github/update-readme.config.yml'
   metrics:
     name: 'Update SVGs for Readme stats'
     runs-on: ubuntu-latest
