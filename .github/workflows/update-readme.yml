@@ -21,21 +21,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           CONFIG_FILE: '.github/update-readme.config.yml'
-  metrics:
-    name: 'Update SVGs for Readme stats'
-    runs-on: ubuntu-latest
-    needs: recent-activity
-    steps:
-      - uses: lowlighter/metrics@v3.33
-        with:
-          # token: ${{ secrets.METRICS_TOKEN }}
-          token: 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
-          user: Readme-Workflows
-          repo: recent-activity
-          template: markdown
-          filename: README.md
-          markdown: README.md
-          markdown_cache: '.github/svg_cache'
+  
           
           base: ""
           
