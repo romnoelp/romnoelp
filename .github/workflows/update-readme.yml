@@ -33,7 +33,7 @@ jobs:
           repo: recent-activity
           template: markdown
           filename: README.md
-          markdown: TEMPLATE.md
+          markdown: README.md
           markdown_cache: '.github/svg_cache'
           
           base: ""
