@@ -16,7 +16,7 @@
 ## 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢:
 <!--RECENT_ACTIVITY:start-->
 1. ❌ Closed PR [#3](https://github.com/romnoelp/Shadows-of-the-Forgotten-Realms/pull/3) in [romnoelp/Shadows-of-the-Forgotten-Realms](https://github.com/romnoelp/Shadows-of-the-Forgotten-Realms)<br>
-2. ⬆️ Pushed 1 commit(s) to [romnoelp/Shadows-of-the-Forgotten-Realms](https://github.com/romnoelp/Shadows-of-the-Forgotten-Realms)<br>
+2. ❌ Closed PR [#3](https://github.com/romnoelp/Shadows-of-the-Forgotten-Realms/pull/3) in [romnoelp/Shadows-of-the-Forgotten-Realms](https://github.com/romnoelp/Shadows-of-the-Forgotten-Realms)<br>
 3. ⬆️ Pushed 1 commit(s) to [romnoelp/Shadows-of-the-Forgotten-Realms](https://github.com/romnoelp/Shadows-of-the-Forgotten-Realms)<br>
 4. ⬆️ Pushed 1 commit(s) to [romnoelp/Shadows-of-the-Forgotten-Realms](https://github.com/romnoelp/Shadows-of-the-Forgotten-Realms)<br>
 5. ⬆️ Pushed 1 commit(s) to [romnoelp/Shadows-of-the-Forgotten-Realms](https://github.com/romnoelp/Shadows-of-the-Forgotten-Realms)<br>
