@@ -15,11 +15,11 @@
 
 ## 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢:
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#4](https://github.com/romnoelp/Shadows-of-the-Forgotten-Realms/pull/4) in [romnoelp/Shadows-of-the-Forgotten-Realms](https://github.com/romnoelp/Shadows-of-the-Forgotten-Realms)<br>
-2. 👍 Approved [#4](https://github.com/romnoelp/Shadows-of-the-Forgotten-Realms/pull/4#pullrequestreview-1785402899) in [romnoelp/Shadows-of-the-Forgotten-Realms](https://github.com/romnoelp/Shadows-of-the-Forgotten-Realms)<br>
-3. ❌ Closed PR [#3](https://github.com/romnoelp/Shadows-of-the-Forgotten-Realms/pull/3) in [romnoelp/Shadows-of-the-Forgotten-Realms](https://github.com/romnoelp/Shadows-of-the-Forgotten-Realms)<br>
-4. ❌ Closed PR [#3](https://github.com/romnoelp/Shadows-of-the-Forgotten-Realms/pull/3) in [romnoelp/Shadows-of-the-Forgotten-Realms](https://github.com/romnoelp/Shadows-of-the-Forgotten-Realms)<br>
-5. ⬆️ Pushed 1 commit(s) to [romnoelp/Shadows-of-the-Forgotten-Realms](https://github.com/romnoelp/Shadows-of-the-Forgotten-Realms)<br>
+1. ⬆️ Pushed 1 commit(s) to [romnoelp/Shadows-of-the-Forgotten-Realms](https://github.com/romnoelp/Shadows-of-the-Forgotten-Realms)<br>
+2. ⬆️ Pushed 1 commit(s) to [romnoelp/Shadows-of-the-Forgotten-Realms](https://github.com/romnoelp/Shadows-of-the-Forgotten-Realms)<br>
+3. ❌ Closed PR [#4](https://github.com/romnoelp/Shadows-of-the-Forgotten-Realms/pull/4) in [romnoelp/Shadows-of-the-Forgotten-Realms](https://github.com/romnoelp/Shadows-of-the-Forgotten-Realms)<br>
+4. 👍 Approved [#4](https://github.com/romnoelp/Shadows-of-the-Forgotten-Realms/pull/4#pullrequestreview-1785402899) in [romnoelp/Shadows-of-the-Forgotten-Realms](https://github.com/romnoelp/Shadows-of-the-Forgotten-Realms)<br>
+5. ❌ Closed PR [#3](https://github.com/romnoelp/Shadows-of-the-Forgotten-Realms/pull/3) in [romnoelp/Shadows-of-the-Forgotten-Realms](https://github.com/romnoelp/Shadows-of-the-Forgotten-Realms)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
