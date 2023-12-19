@@ -18,8 +18,8 @@
 1. ⬆️ Pushed 1 commit(s) to [romnoelp/Shadows-of-the-Forgotten-Realms](https://github.com/romnoelp/Shadows-of-the-Forgotten-Realms)<br>
 2. ⬆️ Pushed 1 commit(s) to [romnoelp/Shadows-of-the-Forgotten-Realms](https://github.com/romnoelp/Shadows-of-the-Forgotten-Realms)<br>
 3. ⬆️ Pushed 1 commit(s) to [romnoelp/Shadows-of-the-Forgotten-Realms](https://github.com/romnoelp/Shadows-of-the-Forgotten-Realms)<br>
-4. 🎉 Merged PR [#7](https://github.com/romnoelp/Shadows-of-the-Forgotten-Realms/pull/7) in [romnoelp/Shadows-of-the-Forgotten-Realms](https://github.com/romnoelp/Shadows-of-the-Forgotten-Realms)<br>
-5. ⬆️ Pushed 2 commit(s) to [romnoelp/Shadows-of-the-Forgotten-Realms](https://github.com/romnoelp/Shadows-of-the-Forgotten-Realms)<br>
+4. ⬆️ Pushed 1 commit(s) to [romnoelp/Shadows-of-the-Forgotten-Realms](https://github.com/romnoelp/Shadows-of-the-Forgotten-Realms)<br>
+5. 🎉 Merged PR [#7](https://github.com/romnoelp/Shadows-of-the-Forgotten-Realms/pull/7) in [romnoelp/Shadows-of-the-Forgotten-Realms](https://github.com/romnoelp/Shadows-of-the-Forgotten-Realms)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
