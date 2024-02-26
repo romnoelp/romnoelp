@@ -15,11 +15,11 @@
 
 ## 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢:
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [romnoelp/Algorithmia](https://github.com/romnoelp/Algorithmia)<br>
-2. 🤝 Became collaborator on [romnoelp/Algorithmia](https://github.com/romnoelp/Algorithmia)<br>
-3. ⬆️ Pushed 2 commit(s) to [romnoelp/Algorithmia](https://github.com/romnoelp/Algorithmia)<br>
-4. 📔 Created new repository [romnoelp/Algorithmia](https://github.com/romnoelp/Algorithmia)<br>
-5. ⬆️ Pushed 1 commit(s) to [romnoelp/Valentine-Gift](https://github.com/romnoelp/Valentine-Gift)<br>
+1. ⬆️ Pushed 2 commit(s) to [romnoelp/Algorithmia](https://github.com/romnoelp/Algorithmia)<br>
+2. 📔 Created new repository [romnoelp/Algorithmia](https://github.com/romnoelp/Algorithmia)<br>
+3. ⬆️ Pushed 1 commit(s) to [romnoelp/Valentine-Gift](https://github.com/romnoelp/Valentine-Gift)<br>
+4. ⬆️ Pushed 1 commit(s) to [romnoelp/Valentine-Gift](https://github.com/romnoelp/Valentine-Gift)<br>
+5. 📔 Created new repository [romnoelp/Valentine-Gift](https://github.com/romnoelp/Valentine-Gift)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
