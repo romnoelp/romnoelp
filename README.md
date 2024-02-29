@@ -15,11 +15,11 @@
 
 ## 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢:
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 4 commit(s) to [romnoelp/Algorithmia](https://github.com/romnoelp/Algorithmia)<br>
-2. 🎉 Merged PR [#34](https://github.com/romnoelp/Algorithmia/pull/34) in [romnoelp/Algorithmia](https://github.com/romnoelp/Algorithmia)<br>
-3. ⬆️ Pushed 5 commit(s) to [VinceSevilla/Algorithmia](https://github.com/VinceSevilla/Algorithmia)<br>
-4. ⬆️ Pushed 37 commit(s) to [Retchizu/Algorithmia](https://github.com/Retchizu/Algorithmia)<br>
-5. ⬆️ Pushed 4 commit(s) to [kevinmlisboa/Algorithmia](https://github.com/kevinmlisboa/Algorithmia)<br>
+1. ⬆️ Pushed 2 commit(s) to [romnoelp/Algorithmia](https://github.com/romnoelp/Algorithmia)<br>
+2. 🎉 Merged PR [#35](https://github.com/romnoelp/Algorithmia/pull/35) in [romnoelp/Algorithmia](https://github.com/romnoelp/Algorithmia)<br>
+3. ⬆️ Pushed 4 commit(s) to [romnoelp/Algorithmia](https://github.com/romnoelp/Algorithmia)<br>
+4. 🎉 Merged PR [#34](https://github.com/romnoelp/Algorithmia/pull/34) in [romnoelp/Algorithmia](https://github.com/romnoelp/Algorithmia)<br>
+5. ⬆️ Pushed 5 commit(s) to [VinceSevilla/Algorithmia](https://github.com/VinceSevilla/Algorithmia)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
