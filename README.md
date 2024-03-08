@@ -15,11 +15,11 @@
 
 ## 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢:
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [romnoelp/Algorithmia](https://github.com/romnoelp/Algorithmia)<br>
-2. 🎉 Merged PR [#66](https://github.com/romnoelp/Algorithmia/pull/66) in [romnoelp/Algorithmia](https://github.com/romnoelp/Algorithmia)<br>
-3. 💪 Opened PR [#66](https://github.com/romnoelp/Algorithmia/pull/66) in [romnoelp/Algorithmia](https://github.com/romnoelp/Algorithmia)<br>
+1. ⬆️ Pushed 2 commit(s) to [romnoelp/Algorithmia](https://github.com/romnoelp/Algorithmia)<br>
+2. 🎉 Merged PR [#67](https://github.com/romnoelp/Algorithmia/pull/67) in [romnoelp/Algorithmia](https://github.com/romnoelp/Algorithmia)<br>
+3. 💪 Opened PR [#67](https://github.com/romnoelp/Algorithmia/pull/67) in [romnoelp/Algorithmia](https://github.com/romnoelp/Algorithmia)<br>
 4. ⬆️ Pushed 1 commit(s) to [romnoelp/Algorithmia](https://github.com/romnoelp/Algorithmia)<br>
-5. ⬆️ Pushed 2 commit(s) to [romnoelp/Algorithmia](https://github.com/romnoelp/Algorithmia)<br>
+5. ⬆️ Pushed 3 commit(s) to [romnoelp/Algorithmia](https://github.com/romnoelp/Algorithmia)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
