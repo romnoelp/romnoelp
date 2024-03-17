@@ -15,11 +15,11 @@
 
 ## 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢:
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [romnoelp/CDM-Payroll-System](https://github.com/romnoelp/CDM-Payroll-System)<br>
-2. 🎉 Merged PR [#1](https://github.com/romnoelp/CDM-Payroll-System/pull/1) in [romnoelp/CDM-Payroll-System](https://github.com/romnoelp/CDM-Payroll-System)<br>
-3. ⬆️ Pushed 1 commit(s) to [romnoelp/CDM-Payroll-System](https://github.com/romnoelp/CDM-Payroll-System)<br>
+1. ⬆️ Pushed 1 commit(s) to [romnoelp/CDM-Payroll-System](https://github.com/romnoelp/CDM-Payroll-System)<br>
+2. ⬆️ Pushed 2 commit(s) to [romnoelp/CDM-Payroll-System](https://github.com/romnoelp/CDM-Payroll-System)<br>
+3. 🎉 Merged PR [#1](https://github.com/romnoelp/CDM-Payroll-System/pull/1) in [romnoelp/CDM-Payroll-System](https://github.com/romnoelp/CDM-Payroll-System)<br>
 4. ⬆️ Pushed 1 commit(s) to [romnoelp/CDM-Payroll-System](https://github.com/romnoelp/CDM-Payroll-System)<br>
-5. 📔 Created new repository [romnoelp/CDM-Payroll-System](https://github.com/romnoelp/CDM-Payroll-System)<br>
+5. ⬆️ Pushed 1 commit(s) to [romnoelp/CDM-Payroll-System](https://github.com/romnoelp/CDM-Payroll-System)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
