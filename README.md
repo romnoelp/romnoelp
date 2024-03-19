@@ -18,8 +18,8 @@
 1. ⬆️ Pushed 1 commit(s) to [romnoelp/CDM-Payroll-System](https://github.com/romnoelp/CDM-Payroll-System)<br>
 2. ⬆️ Pushed 1 commit(s) to [romnoelp/CDM-Payroll-System](https://github.com/romnoelp/CDM-Payroll-System)<br>
 3. ⬆️ Pushed 1 commit(s) to [romnoelp/CDM-Payroll-System](https://github.com/romnoelp/CDM-Payroll-System)<br>
-4. ⬆️ Pushed 2 commit(s) to [romnoelp/CDM-Payroll-System](https://github.com/romnoelp/CDM-Payroll-System)<br>
-5. 🎉 Merged PR [#1](https://github.com/romnoelp/CDM-Payroll-System/pull/1) in [romnoelp/CDM-Payroll-System](https://github.com/romnoelp/CDM-Payroll-System)<br>
+4. ⬆️ Pushed 1 commit(s) to [romnoelp/CDM-Payroll-System](https://github.com/romnoelp/CDM-Payroll-System)<br>
+5. ⬆️ Pushed 2 commit(s) to [romnoelp/CDM-Payroll-System](https://github.com/romnoelp/CDM-Payroll-System)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
