@@ -15,8 +15,8 @@
 
 ## 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [romnoelp/Luminouse](https://github.com/romnoelp/Luminouse)<br>
-2. ⬆️ Pushed 1 commit(s) to [romnoelp/Algorithmia](https://github.com/romnoelp/Algorithmia)<br>
+1. ⬆️ Pushed 1 commit(s) to [romnoelp/Luminouse](https://github.com/romnoelp/Luminouse)<br>
+2. 📔 Created new repository [romnoelp/Luminouse](https://github.com/romnoelp/Luminouse)<br>
 3. ⬆️ Pushed 1 commit(s) to [romnoelp/Algorithmia](https://github.com/romnoelp/Algorithmia)<br>
 4. ⬆️ Pushed 1 commit(s) to [romnoelp/Algorithmia](https://github.com/romnoelp/Algorithmia)<br>
 5. ⬆️ Pushed 1 commit(s) to [romnoelp/Algorithmia](https://github.com/romnoelp/Algorithmia)<br>
