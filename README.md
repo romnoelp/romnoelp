@@ -16,9 +16,9 @@
 ## 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢:
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [romnoelp/social-app](https://github.com/romnoelp/social-app)<br>
-2. 📔 Created new repository [romnoelp/social-app](https://github.com/romnoelp/social-app)<br>
-3. ⬆️ Pushed 2 commit(s) to [romnoelp/Exception-Handling](https://github.com/romnoelp/Exception-Handling)<br>
-4. ⬆️ Pushed 1 commit(s) to [romnoelp/Exception-Handling](https://github.com/romnoelp/Exception-Handling)<br>
+2. ⬆️ Pushed 1 commit(s) to [romnoelp/social-app](https://github.com/romnoelp/social-app)<br>
+3. 📔 Created new repository [romnoelp/social-app](https://github.com/romnoelp/social-app)<br>
+4. ⬆️ Pushed 2 commit(s) to [romnoelp/Exception-Handling](https://github.com/romnoelp/Exception-Handling)<br>
 5. ⬆️ Pushed 1 commit(s) to [romnoelp/Exception-Handling](https://github.com/romnoelp/Exception-Handling)<br>
 <!--RECENT_ACTIVITY:end-->
 
