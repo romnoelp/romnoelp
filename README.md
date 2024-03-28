@@ -17,9 +17,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [romnoelp/social-app](https://github.com/romnoelp/social-app)<br>
 2. ⬆️ Pushed 1 commit(s) to [romnoelp/social-app](https://github.com/romnoelp/social-app)<br>
-3. 📔 Created new repository [romnoelp/social-app](https://github.com/romnoelp/social-app)<br>
-4. ⬆️ Pushed 2 commit(s) to [romnoelp/Exception-Handling](https://github.com/romnoelp/Exception-Handling)<br>
-5. ⬆️ Pushed 1 commit(s) to [romnoelp/Exception-Handling](https://github.com/romnoelp/Exception-Handling)<br>
+3. ⬆️ Pushed 1 commit(s) to [romnoelp/social-app](https://github.com/romnoelp/social-app)<br>
+4. 📔 Created new repository [romnoelp/social-app](https://github.com/romnoelp/social-app)<br>
+5. ⬆️ Pushed 2 commit(s) to [romnoelp/Exception-Handling](https://github.com/romnoelp/Exception-Handling)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
