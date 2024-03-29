@@ -16,10 +16,10 @@
 ## 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢:
 <!--RECENT_ACTIVITY:start-->
 1. 📔 Created new repository [romnoelp/Listify](https://github.com/romnoelp/Listify)<br>
-2. ⬆️ Pushed 1 commit(s) to [romnoelp/social-app](https://github.com/romnoelp/social-app)<br>
+2. 📔 Created new repository [romnoelp/Listify](https://github.com/romnoelp/Listify)<br>
 3. ⬆️ Pushed 1 commit(s) to [romnoelp/social-app](https://github.com/romnoelp/social-app)<br>
 4. ⬆️ Pushed 1 commit(s) to [romnoelp/social-app](https://github.com/romnoelp/social-app)<br>
-5. 📔 Created new repository [romnoelp/social-app](https://github.com/romnoelp/social-app)<br>
+5. ⬆️ Pushed 1 commit(s) to [romnoelp/social-app](https://github.com/romnoelp/social-app)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
