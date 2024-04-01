@@ -15,9 +15,9 @@
 
 ## 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢:
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [romnoelp/Listify](https://github.com/romnoelp/Listify)<br>
-2. ⬆️ Pushed 1 commit(s) to [romnoelp/Listify](https://github.com/romnoelp/Listify)<br>
-3. ⬆️ Pushed 1 commit(s) to [romnoelp/Listify](https://github.com/romnoelp/Listify)<br>
+1. ⭐ Starred [romnoelp/Listify](https://github.com/romnoelp/Listify)<br>
+2. ⬆️ Pushed 2 commit(s) to [romnoelp/Listify](https://github.com/romnoelp/Listify)<br>
+3. 🎉 Merged PR [#13](https://github.com/romnoelp/Listify/pull/13) in [romnoelp/Listify](https://github.com/romnoelp/Listify)<br>
 4. ⬆️ Pushed 1 commit(s) to [romnoelp/Listify](https://github.com/romnoelp/Listify)<br>
 5. ⬆️ Pushed 1 commit(s) to [romnoelp/Listify](https://github.com/romnoelp/Listify)<br>
 <!--RECENT_ACTIVITY:end-->
