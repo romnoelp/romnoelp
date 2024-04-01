@@ -18,8 +18,8 @@
 1. ⬆️ Pushed 1 commit(s) to [romnoelp/Listify](https://github.com/romnoelp/Listify)<br>
 2. ⬆️ Pushed 1 commit(s) to [romnoelp/Listify](https://github.com/romnoelp/Listify)<br>
 3. ⬆️ Pushed 1 commit(s) to [romnoelp/Listify](https://github.com/romnoelp/Listify)<br>
-4. ⬆️ Pushed 4 commit(s) to [romnoelp/Listify](https://github.com/romnoelp/Listify)<br>
-5. 🎉 Merged PR [#17](https://github.com/romnoelp/Listify/pull/17) in [romnoelp/Listify](https://github.com/romnoelp/Listify)<br>
+4. ⬆️ Pushed 1 commit(s) to [romnoelp/Listify](https://github.com/romnoelp/Listify)<br>
+5. ⬆️ Pushed 4 commit(s) to [romnoelp/Listify](https://github.com/romnoelp/Listify)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
