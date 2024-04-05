@@ -15,11 +15,11 @@
 
 ## 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [romnoelp/Chit-Chat](https://github.com/romnoelp/Chit-Chat)<br>
-2. ⬆️ Pushed 1 commit(s) to [romnoelp/romnoelp](https://github.com/romnoelp/romnoelp)<br>
-3. ⬆️ Pushed 2 commit(s) to [romnoelp/Listify](https://github.com/romnoelp/Listify)<br>
-4. ⬆️ Pushed 3 commit(s) to [romnoelp/Listify](https://github.com/romnoelp/Listify)<br>
-5. 🎉 Merged PR [#31](https://github.com/romnoelp/Listify/pull/31) in [romnoelp/Listify](https://github.com/romnoelp/Listify)<br>
+1. ⬆️ Pushed 1 commit(s) to [romnoelp/romnoelp](https://github.com/romnoelp/romnoelp)<br>
+2. 📔 Created new repository [romnoelp/Chit-Chat](https://github.com/romnoelp/Chit-Chat)<br>
+3. ⬆️ Pushed 1 commit(s) to [romnoelp/romnoelp](https://github.com/romnoelp/romnoelp)<br>
+4. ⬆️ Pushed 2 commit(s) to [romnoelp/Listify](https://github.com/romnoelp/Listify)<br>
+5. ⬆️ Pushed 3 commit(s) to [romnoelp/Listify](https://github.com/romnoelp/Listify)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
