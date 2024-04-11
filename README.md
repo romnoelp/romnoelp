@@ -15,11 +15,11 @@
 
 ## 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢:
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [romnoelp/Listify](https://github.com/romnoelp/Listify)<br>
-2. 🎉 Merged PR [#32](https://github.com/romnoelp/Listify/pull/32) in [romnoelp/Listify](https://github.com/romnoelp/Listify)<br>
-3. 📔 Created new repository [romnoelp/Chit-Chat](https://github.com/romnoelp/Chit-Chat)<br>
-4. ⬆️ Pushed 1 commit(s) to [romnoelp/Lab-Seatwork-Hashmap-Exercise](https://github.com/romnoelp/Lab-Seatwork-Hashmap-Exercise)<br>
-5. ⬆️ Pushed 1 commit(s) to [romnoelp/Lab-Seatwork-Hashmap-Exercise](https://github.com/romnoelp/Lab-Seatwork-Hashmap-Exercise)<br>
+1. ⬆️ Pushed 1 commit(s) to [romnoelp/Lab-Assignment-Hashmap](https://github.com/romnoelp/Lab-Assignment-Hashmap)<br>
+2. 📔 Created new repository [romnoelp/Lab-Assignment-Hashmap](https://github.com/romnoelp/Lab-Assignment-Hashmap)<br>
+3. ⬆️ Pushed 2 commit(s) to [romnoelp/Listify](https://github.com/romnoelp/Listify)<br>
+4. 🎉 Merged PR [#32](https://github.com/romnoelp/Listify/pull/32) in [romnoelp/Listify](https://github.com/romnoelp/Listify)<br>
+5. 📔 Created new repository [romnoelp/Chit-Chat](https://github.com/romnoelp/Chit-Chat)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
