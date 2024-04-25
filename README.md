@@ -18,8 +18,8 @@
 1. ⬆️ Pushed 1 commit(s) to [romnoelp/Lab-Assignment-6](https://github.com/romnoelp/Lab-Assignment-6)<br>
 2. ⬆️ Pushed 1 commit(s) to [romnoelp/Lab-Assignment-6](https://github.com/romnoelp/Lab-Assignment-6)<br>
 3. ⬆️ Pushed 1 commit(s) to [romnoelp/Lab-Assignment-6](https://github.com/romnoelp/Lab-Assignment-6)<br>
-4. 📔 Created new repository [romnoelp/Lab-Assignment-6](https://github.com/romnoelp/Lab-Assignment-6)<br>
-5. 📔 Created new repository [romnoelp/Chit-Chat](https://github.com/romnoelp/Chit-Chat)<br>
+4. ⬆️ Pushed 1 commit(s) to [romnoelp/Lab-Assignment-6](https://github.com/romnoelp/Lab-Assignment-6)<br>
+5. 📔 Created new repository [romnoelp/Lab-Assignment-6](https://github.com/romnoelp/Lab-Assignment-6)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
