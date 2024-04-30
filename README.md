@@ -15,8 +15,8 @@
 
 ## 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢:
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [romnoelp/Academeet](https://github.com/romnoelp/Academeet) from [Retchizu/Academeet](https://github.com/Retchizu/Academeet)<br>
-2. ⬆️ Pushed 1 commit(s) to [romnoelp/Lab-Assignment-6](https://github.com/romnoelp/Lab-Assignment-6)<br>
+1. ⬆️ Pushed 1 commit(s) to [romnoelp/Academeet](https://github.com/romnoelp/Academeet)<br>
+2. 🔱 Forked [romnoelp/Academeet](https://github.com/romnoelp/Academeet) from [Retchizu/Academeet](https://github.com/Retchizu/Academeet)<br>
 3. ⬆️ Pushed 1 commit(s) to [romnoelp/Lab-Assignment-6](https://github.com/romnoelp/Lab-Assignment-6)<br>
 4. ⬆️ Pushed 1 commit(s) to [romnoelp/Lab-Assignment-6](https://github.com/romnoelp/Lab-Assignment-6)<br>
 5. ⬆️ Pushed 1 commit(s) to [romnoelp/Lab-Assignment-6](https://github.com/romnoelp/Lab-Assignment-6)<br>
