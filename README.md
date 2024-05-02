@@ -16,10 +16,10 @@
 ## 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢:
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [romnoelp/Dependency-Inversion](https://github.com/romnoelp/Dependency-Inversion)<br>
-2. ⬆️ Pushed 6 commit(s) to [romnoelp/Academeet](https://github.com/romnoelp/Academeet)<br>
-3. ⬆️ Pushed 1 commit(s) to [romnoelp/Dependency-Inversion](https://github.com/romnoelp/Dependency-Inversion)<br>
-4. 📔 Created new repository [romnoelp/Dependency-Inversion](https://github.com/romnoelp/Dependency-Inversion)<br>
-5. 💪 Opened PR [#6](https://github.com/Retchizu/Academeet/pull/6) in [Retchizu/Academeet](https://github.com/Retchizu/Academeet)<br>
+2. ⬆️ Pushed 1 commit(s) to [romnoelp/Dependency-Inversion](https://github.com/romnoelp/Dependency-Inversion)<br>
+3. ⬆️ Pushed 6 commit(s) to [romnoelp/Academeet](https://github.com/romnoelp/Academeet)<br>
+4. ⬆️ Pushed 1 commit(s) to [romnoelp/Dependency-Inversion](https://github.com/romnoelp/Dependency-Inversion)<br>
+5. 📔 Created new repository [romnoelp/Dependency-Inversion](https://github.com/romnoelp/Dependency-Inversion)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
