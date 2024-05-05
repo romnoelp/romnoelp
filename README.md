@@ -17,8 +17,8 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [romnoelp/Academeet](https://github.com/romnoelp/Academeet)<br>
 2. ⬆️ Pushed 1 commit(s) to [romnoelp/Academeet](https://github.com/romnoelp/Academeet)<br>
-3. 💪 Opened PR [#18](https://github.com/Retchizu/Academeet/pull/18) in [Retchizu/Academeet](https://github.com/Retchizu/Academeet)<br>
-4. ⬆️ Pushed 1 commit(s) to [romnoelp/Academeet](https://github.com/romnoelp/Academeet)<br>
+3. ⬆️ Pushed 1 commit(s) to [romnoelp/Academeet](https://github.com/romnoelp/Academeet)<br>
+4. 💪 Opened PR [#18](https://github.com/Retchizu/Academeet/pull/18) in [Retchizu/Academeet](https://github.com/Retchizu/Academeet)<br>
 5. ⬆️ Pushed 1 commit(s) to [romnoelp/Academeet](https://github.com/romnoelp/Academeet)<br>
 <!--RECENT_ACTIVITY:end-->
 
