@@ -15,11 +15,11 @@
 
 ## 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢:
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [romnoelp/Academeet](https://github.com/romnoelp/Academeet)<br>
-2. 💪 Opened PR [#30](https://github.com/Retchizu/Academeet/pull/30) in [Retchizu/Academeet](https://github.com/Retchizu/Academeet)<br>
-3. ⬆️ Pushed 1 commit(s) to [romnoelp/Academeet](https://github.com/romnoelp/Academeet)<br>
-4. ⬆️ Pushed 4 commit(s) to [romnoelp/Academeet](https://github.com/romnoelp/Academeet)<br>
-5. 💪 Opened PR [#29](https://github.com/Retchizu/Academeet/pull/29) in [Retchizu/Academeet](https://github.com/Retchizu/Academeet)<br>
+1. ⬆️ Pushed 1 commit(s) to [romnoelp/Academeet](https://github.com/romnoelp/Academeet)<br>
+2. ⬆️ Pushed 2 commit(s) to [romnoelp/Academeet](https://github.com/romnoelp/Academeet)<br>
+3. 💪 Opened PR [#30](https://github.com/Retchizu/Academeet/pull/30) in [Retchizu/Academeet](https://github.com/Retchizu/Academeet)<br>
+4. ⬆️ Pushed 1 commit(s) to [romnoelp/Academeet](https://github.com/romnoelp/Academeet)<br>
+5. ⬆️ Pushed 4 commit(s) to [romnoelp/Academeet](https://github.com/romnoelp/Academeet)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
