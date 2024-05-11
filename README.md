@@ -15,11 +15,11 @@
 
 ## 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [romnoelp/UserSideWithCalculation](https://github.com/romnoelp/UserSideWithCalculation)<br>
-2. ⬆️ Pushed 2 commit(s) to [romnoelp/CDM-Payroll-System](https://github.com/romnoelp/CDM-Payroll-System)<br>
-3. 🎉 Merged PR [#2](https://github.com/romnoelp/CDM-Payroll-System/pull/2) in [romnoelp/CDM-Payroll-System](https://github.com/romnoelp/CDM-Payroll-System)<br>
-4. 💪 Opened PR [#47](https://github.com/Retchizu/Academeet/pull/47) in [Retchizu/Academeet](https://github.com/Retchizu/Academeet)<br>
-5. ⬆️ Pushed 1 commit(s) to [romnoelp/Academeet](https://github.com/romnoelp/Academeet)<br>
+1. ⬆️ Pushed 1 commit(s) to [romnoelp/UserSideWithCalculation](https://github.com/romnoelp/UserSideWithCalculation)<br>
+2. 📔 Created new repository [romnoelp/UserSideWithCalculation](https://github.com/romnoelp/UserSideWithCalculation)<br>
+3. ⬆️ Pushed 2 commit(s) to [romnoelp/CDM-Payroll-System](https://github.com/romnoelp/CDM-Payroll-System)<br>
+4. 🎉 Merged PR [#2](https://github.com/romnoelp/CDM-Payroll-System/pull/2) in [romnoelp/CDM-Payroll-System](https://github.com/romnoelp/CDM-Payroll-System)<br>
+5. 💪 Opened PR [#47](https://github.com/Retchizu/Academeet/pull/47) in [Retchizu/Academeet](https://github.com/Retchizu/Academeet)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
