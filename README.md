@@ -15,11 +15,11 @@
 
 ## 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢:
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [romnoelp/UserSideWithCalculation](https://github.com/romnoelp/UserSideWithCalculation)<br>
+1. ⭐ Starred [nathanhoad/godot_dialogue_manager](https://github.com/nathanhoad/godot_dialogue_manager)<br>
 2. ⬆️ Pushed 1 commit(s) to [romnoelp/UserSideWithCalculation](https://github.com/romnoelp/UserSideWithCalculation)<br>
 3. ⬆️ Pushed 1 commit(s) to [romnoelp/UserSideWithCalculation](https://github.com/romnoelp/UserSideWithCalculation)<br>
-4. ⬆️ Pushed 1 commit(s) to [romnoelp/SideScroller](https://github.com/romnoelp/SideScroller)<br>
-5. 📔 Created new repository [romnoelp/SideScroller](https://github.com/romnoelp/SideScroller)<br>
+4. ⬆️ Pushed 1 commit(s) to [romnoelp/UserSideWithCalculation](https://github.com/romnoelp/UserSideWithCalculation)<br>
+5. ⬆️ Pushed 1 commit(s) to [romnoelp/SideScroller](https://github.com/romnoelp/SideScroller)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
