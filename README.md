@@ -26,7 +26,8 @@
 <a href="https://fb.com/rpetracorta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rpetracorta" height="30" width="40" /></a>
 <a href="https://instagram.com/romnoelp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="romnoelp" height="30" width="40" /></a>
 </p>
-## 𝙰𝚍𝚍𝚒𝚝𝚒𝚘𝚗𝚊𝚕 𝙸𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗
+
+## 𝙰𝚍𝚍𝚒𝚝𝚒𝚘𝚗𝚊𝚕 𝙸𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗:
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **C#, Backend development, 𝚊𝚗𝚍 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚒𝚗 𝚐𝚎𝚗𝚎𝚛𝚊𝚕**
 - 💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 **𝙶𝚊𝚖𝚎 𝚍𝚎𝚟, 𝙹𝚊𝚟𝚊, 𝙲#, 𝚊𝚗𝚍 𝙿𝚢𝚝𝚑𝚘𝚗**
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 **𝙸 𝚎𝚗𝚓𝚘𝚢 𝚐𝚘𝚒𝚗𝚐 𝚝𝚘 𝚝𝚑𝚎 𝚐𝚢𝚖, 𝚊𝚗𝚍 𝚙𝚕𝚊𝚢𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 𝚐𝚞𝚒𝚝𝚊𝚛𝚜!**
