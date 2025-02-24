@@ -23,13 +23,7 @@
 - [𝙾𝚛𝚊𝚌𝚕𝚎 𝙲𝚕𝚘𝚞𝚍 𝙳𝚊𝚝𝚊 𝙼𝚊𝚗𝚊𝚐𝚎𝚖𝚎𝚗𝚝 𝟸0𝟸𝟹 𝙲𝚎𝚛𝚝𝚒𝚏𝚒𝚎𝚍 𝙵𝚘𝚞𝚗𝚍𝚊𝚝𝚒𝚘𝚗𝚜 𝙰𝚜𝚜𝚘𝚌𝚒𝚊𝚝𝚎](https://catalog-education.oracle.com/pls/certview/sharebadge?id=B8F41C851BD8553F6058123B4367EA78B6F275544FB7F8DF3FAE5BFB0BEFB8A5)
 - [𝙾𝚛𝚊𝚌𝚕𝚎 𝙲𝚕𝚘𝚞𝚍 𝙸𝚗𝚏𝚛𝚊𝚜𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎 𝟸0𝟸𝟹 𝙲𝚎𝚛𝚝𝚒𝚏𝚒𝚎𝚍 𝙵𝚘𝚞𝚗𝚍𝚊𝚝𝚒𝚘𝚝𝚞𝚛𝚎](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CE2DF586021BE01DACB83ABBA121CFE4A4A3D6E3280651AC5EFC375FEEBDB4A2)
 ## 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢:
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [romnoelp/CDM-Payroll-System](https://github.com/romnoelp/CDM-Payroll-System)<br>
-2. ⬆️ Pushed 3 commit(s) to [romnoelp/CDM-Payroll-System](https://github.com/romnoelp/CDM-Payroll-System)<br>
-3. 🎉 Merged PR [#6](https://github.com/romnoelp/CDM-Payroll-System/pull/6) in [romnoelp/CDM-Payroll-System](https://github.com/romnoelp/CDM-Payroll-System)<br>
-4. ⬆️ Pushed 1 commit(s) to [romnoelp/UserSideWithCalculation](https://github.com/romnoelp/UserSideWithCalculation)<br>
-5. ⬆️ Pushed 1 commit(s) to [romnoelp/CDM-Payroll-System](https://github.com/romnoelp/CDM-Payroll-System)<br>
-<!--RECENT_ACTIVITY:end-->
+
 ## 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎, 𝚑𝚘𝚠𝚎𝚟𝚎𝚛, 𝚢𝚘𝚞 𝚌𝚊𝚗 𝚊𝚕𝚜𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚝𝚑𝚛𝚘𝚞𝚐𝚑 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 <p align="left">
@@ -42,6 +36,7 @@
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **C#, Backend development, 𝚊𝚗𝚍 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚒𝚗 𝚐𝚎𝚗𝚎𝚛𝚊𝚕**
 - 💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 **𝙶𝚊𝚖𝚎 𝚍𝚎𝚟, 𝙹𝚊𝚟𝚊, 𝙲#, 𝚊𝚗𝚍 𝙿𝚢𝚝𝚑𝚘𝚗**
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 **𝙸 𝚎𝚗𝚓𝚘𝚢 𝚐𝚘𝚒𝚗𝚐 𝚝𝚘 𝚝𝚑𝚎 𝚐𝚢𝚖, 𝚊𝚗𝚍 𝚙𝚕𝚊𝚢𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 𝚐𝚞𝚒𝚝𝚊𝚛𝚜!**
+  
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
