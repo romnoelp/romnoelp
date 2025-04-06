@@ -23,7 +23,7 @@
 - [𝙾𝚛𝚊𝚌𝚕𝚎 𝙲𝚕𝚘𝚞𝚍 𝙳𝚊𝚝𝚊 𝙼𝚊𝚗𝚊𝚐𝚎𝚖𝚎𝚗𝚝 𝟸0𝟸𝟹 𝙲𝚎𝚛𝚝𝚒𝚏𝚒𝚎𝚍 𝙵𝚘𝚞𝚗𝚍𝚊𝚝𝚒𝚘𝚗𝚜 𝙰𝚜𝚜𝚘𝚌𝚒𝚊𝚝𝚎](https://catalog-education.oracle.com/pls/certview/sharebadge?id=B8F41C851BD8553F6058123B4367EA78B6F275544FB7F8DF3FAE5BFB0BEFB8A5)
 - [𝙾𝚛𝚊𝚌𝚕𝚎 𝙲𝚕𝚘𝚞𝚍 𝙸𝚗𝚏𝚛𝚊𝚜𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎 𝟸0𝟸𝟹 𝙲𝚎𝚛𝚝𝚒𝚏𝚒𝚎𝚍 𝙵𝚘𝚞𝚗𝚍𝚊𝚝𝚒𝚘𝚝𝚞𝚛𝚎](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CE2DF586021BE01DACB83ABBA121CFE4A4A3D6E3280651AC5EFC375FEEBDB4A2)
 ## 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢:
-I do a tend to be often busy, but I'll be sure to make time for development.
+I do tend to be often busy, but I'll be sure to make time for development.
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [romnoelp/cloudcast](https://github.com/romnoelp/cloudcast)<br>
 2. ⬆️ Pushed 1 commit(s) to [Stack-5/cloudcast](https://github.com/Stack-5/cloudcast)<br>
