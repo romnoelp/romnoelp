@@ -32,12 +32,12 @@ I do tend to be often busy, but I'll be sure to make time for development.
 1. ⬆️ Pushed 1 commit(s) to [romnoelp/vue-pokedexed](https://github.com/romnoelp/vue-pokedexed)<br>
 2. ⬆️ Pushed 1 commit(s) to [romnoelp/vue-pokedexed](https://github.com/romnoelp/vue-pokedexed)<br>
 3. ⬆️ Pushed 1 commit(s) to [romnoelp/vue-pokedexed](https://github.com/romnoelp/vue-pokedexed)<br>
-4. 📔 Created new repository [romnoelp/vue-pokedexed](https://github.com/romnoelp/vue-pokedexed)<br>
-5. ⬆️ Pushed 1 commit(s) to [romnoelp/romnoelp](https://github.com/romnoelp/romnoelp)<br>
+4. ⬆️ Pushed 1 commit(s) to [romnoelp/vue-pokedexed](https://github.com/romnoelp/vue-pokedexed)<br>
+5. ⬆️ Pushed 1 commit(s) to [romnoelp/vue-pokedexed](https://github.com/romnoelp/vue-pokedexed)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 10th, 2025, 1:01:27 PM
+Last Updated: Saturday, May 10th, 2025, 1:39:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ## How to reach me:
 You can reach me at the email in my github profile, however, you can also reach me through my socials!
