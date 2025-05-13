@@ -29,15 +29,15 @@
 ## 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢:
 I do tend to be often busy, but I'll be sure to make time for development.
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [romnoelp/Pokedexedv2](https://github.com/romnoelp/Pokedexedv2)<br>
-2. 📔 Created new repository [romnoelp/Pokedexedv2](https://github.com/romnoelp/Pokedexedv2)<br>
-3. ⬆️ Pushed 1 commit(s) to [romnoelp/Pokedexedv2](https://github.com/romnoelp/Pokedexedv2)<br>
-4. 📔 Created new repository [romnoelp/Pokedexedv2](https://github.com/romnoelp/Pokedexedv2)<br>
-5. ⬆️ Pushed 1 commit(s) to [romnoelp/vue-pokedexed](https://github.com/romnoelp/vue-pokedexed)<br>
+1. 📔 Created new repository [romnoelp/Pokedexedv2](https://github.com/romnoelp/Pokedexedv2)<br>
+2. ⬆️ Pushed 1 commit(s) to [romnoelp/Pokedexedv2](https://github.com/romnoelp/Pokedexedv2)<br>
+3. 📔 Created new repository [romnoelp/Pokedexedv2](https://github.com/romnoelp/Pokedexedv2)<br>
+4. ⬆️ Pushed 1 commit(s) to [romnoelp/Pokedexedv2](https://github.com/romnoelp/Pokedexedv2)<br>
+5. 📔 Created new repository [romnoelp/Pokedexedv2](https://github.com/romnoelp/Pokedexedv2)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 13th, 2025, 8:22:44 AM
+Last Updated: Tuesday, May 13th, 2025, 8:48:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ## How to reach me:
 You can reach me at the email in my github profile, however, you can also reach me through my socials!
