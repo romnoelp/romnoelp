@@ -31,13 +31,13 @@ I do tend to be often busy, but I'll be sure to make time for development.
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [romnoelp/blog](https://github.com/romnoelp/blog)<br>
 2. ⬆️ Pushed 1 commit(s) to [romnoelp/blog](https://github.com/romnoelp/blog)<br>
-3. 📔 Created new repository [romnoelp/Pokedexedv2](https://github.com/romnoelp/Pokedexedv2)<br>
-4. 📔 Created new repository [romnoelp/Pokedexedv2](https://github.com/romnoelp/Pokedexedv2)<br>
-5. ⬆️ Pushed 1 commit(s) to [romnoelp/Pokedexedv2](https://github.com/romnoelp/Pokedexedv2)<br>
+3. ⬆️ Pushed 1 commit(s) to [romnoelp/blog](https://github.com/romnoelp/blog)<br>
+4. ⬆️ Pushed 1 commit(s) to [romnoelp/blog](https://github.com/romnoelp/blog)<br>
+5. ⬆️ Pushed 1 commit(s) to [romnoelp/blog](https://github.com/romnoelp/blog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 16th, 2025, 10:17:28 AM
+Last Updated: Friday, May 16th, 2025, 10:43:47 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ## How to reach me:
 You can reach me at the email in my github profile, however, you can also reach me through my socials!
