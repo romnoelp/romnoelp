@@ -30,14 +30,14 @@
 I do tend to be often busy, but I'll be sure to make time for development.
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [romnoelp/Expensely](https://github.com/romnoelp/Expensely)<br>
-2. ⬆️ Pushed 1 commit(s) to [romnoelp/blog](https://github.com/romnoelp/blog)<br>
+2. ⬆️ Pushed 1 commit(s) to [romnoelp/Expensely](https://github.com/romnoelp/Expensely)<br>
 3. ⬆️ Pushed 1 commit(s) to [romnoelp/blog](https://github.com/romnoelp/blog)<br>
 4. ⬆️ Pushed 1 commit(s) to [romnoelp/blog](https://github.com/romnoelp/blog)<br>
 5. ⬆️ Pushed 1 commit(s) to [romnoelp/blog](https://github.com/romnoelp/blog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 18th, 2025, 5:15:46 AM
+Last Updated: Sunday, May 18th, 2025, 5:40:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ## How to reach me:
 You can reach me at the email in my github profile, however, you can also reach me through my socials!
