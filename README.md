@@ -33,7 +33,7 @@ I do tend to be often busy, but I'll be sure to make time for development.
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 29th, 2025, 6:46:04 PM
+Last Updated: Sunday, June 29th, 2025, 7:12:32 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ## How to reach me:
 You can reach me at the email in my github profile, however, you can also reach me through my socials!
