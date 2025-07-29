@@ -30,11 +30,10 @@
 I do tend to be often busy, but I'll be sure to make time for development.
 <!--RECENT_ACTIVITY:start-->
 1. 📔 Created new repository [romnoelp/arch-dotfiles](https://github.com/romnoelp/arch-dotfiles)<br>
-2. 📔 Created new repository [romnoelp/NeuroHeadset](https://github.com/romnoelp/NeuroHeadset)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 29th, 2025, 1:46:13 AM
+Last Updated: Tuesday, July 29th, 2025, 3:47:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ## How to reach me:
 You can reach me at the email in my github profile, however, you can also reach me through my socials!
