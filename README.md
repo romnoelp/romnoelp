@@ -29,11 +29,12 @@
 ## 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢:
 I do tend to be often busy, but I'll be sure to make time for development.
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [romnoelp/arch-dotfiles](https://github.com/romnoelp/arch-dotfiles)<br>
+1. 📔 Created new repository [romnoelp/neuqueue-web](https://github.com/romnoelp/neuqueue-web)<br>
+2. 📔 Created new repository [romnoelp/arch-dotfiles](https://github.com/romnoelp/arch-dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 4th, 2025, 11:42:03 PM
+Last Updated: Tuesday, August 5th, 2025, 1:39:43 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ## How to reach me:
 You can reach me at the email in my github profile, however, you can also reach me through my socials!
