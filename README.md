@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=BE3144)
 ![Header](./introHeader.png)
 
-<p align="justify">I'm a passionate programmer and a web developer. My journey into tech began with a love for video games starting with *Dark Souls*. That curiositiy about how games are built sparked my interest in programming, eventually leading me to pursue my **Computer Science** degree at New Era University.</p>
+<p align="justify">I'm a passionate programmer and a web developer. My journey into tech began with a love for video games starting with Dark Souls. That curiositiy about how games are built sparked my interest in programming, eventually leading me to pursue my Computer Science degree at New Era University.</p>
 
 ## Education
 **Elementary**
