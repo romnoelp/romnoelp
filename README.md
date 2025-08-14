@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=BE3144)
-![Header](./media/introHeader.png)
+![Header](./introHeader.png)
 
-<p align="justify">Hello World! I am Romnoel Petracorta, a passionate programmer and aspiring web developer. My journey in this field has started when I first encountered a game called Dark Souls. As I went on and explored some more games, I became more curious about how the insights of these games are being done, let alone, how are they created. And as I took on life, I went in college pursuing this dream. I entered the Computer Science course my university offered.</p>
+<p align="justify">I'm a passionate programmer and a web developer. My journey into tech began with a love for video games starting with *Dark Souls*. That curiositiy about how games are built sparked my interest in programming, eventually leading me to pursue my **Computer Science** degree at New Era University.</p>
 
 ## Education
 **Elementary**
