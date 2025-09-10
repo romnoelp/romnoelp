@@ -21,6 +21,7 @@
 
 ## Certifications
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/b6b530cd67e74fc7826e640ebbe05917)
+- [Cisco - Introduction to Data Science](https://www.credly.com/badges/3310a7e8-0515-494d-ab83-47afb62312e3/public_url)
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=2D0C5AEEEB45095D294ED35244D18FB29C5477429B89B7211E228D1955F52165)
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=B8F41C851BD8553F6058123B4367EA78B6F275544FB7F8DF3FAE5BFB0BEFB8A5)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CE2DF586021BE01DACB83ABBA121CFE4A4A3D6E3280651AC5EFC375FEEBDB4A2)
