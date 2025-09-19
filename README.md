@@ -25,6 +25,7 @@
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=2D0C5AEEEB45095D294ED35244D18FB29C5477429B89B7211E228D1955F52165)
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=B8F41C851BD8553F6058123B4367EA78B6F275544FB7F8DF3FAE5BFB0BEFB8A5)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CE2DF586021BE01DACB83ABBA121CFE4A4A3D6E3280651AC5EFC375FEEBDB4A2)
+- [Getting Started in Google Analytics](https://coursera.org/share/e9149bb5a0be9d81f5d4f91177deab46)
 
 
 ## 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢:
