@@ -27,6 +27,7 @@
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CE2DF586021BE01DACB83ABBA121CFE4A4A3D6E3280651AC5EFC375FEEBDB4A2)
 - [Getting Started in Google Analytics](https://coursera.org/share/e9149bb5a0be9d81f5d4f91177deab46)
 - [Analyze Website Visitors with Google Analytics Segments](https://coursera.org/share/ff2d73bef36fe65b7b2edc02da61e01d)
+- [Data Science Tools](https://www.credly.com/badges/e1272467-20ce-4b64-a361-a07d3171254f/public_url)
 
 
 ## 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢:
