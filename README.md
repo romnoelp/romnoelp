@@ -34,14 +34,14 @@
 I do tend to be often busy, but I'll be sure to make time for development.
 <!--RECENT_ACTIVITY:start-->
 1. 📔 Created new repository [romnoelp/OJTally](https://github.com/romnoelp/OJTally)<br>
-2. ⬆️ Pushed 1 commit(s) to [romnoelp/romnoelp](https://github.com/romnoelp/romnoelp)<br>
+2. 📔 Created new repository [romnoelp/OJTally](https://github.com/romnoelp/OJTally)<br>
 3. ⬆️ Pushed 1 commit(s) to [romnoelp/romnoelp](https://github.com/romnoelp/romnoelp)<br>
 4. ⬆️ Pushed 1 commit(s) to [romnoelp/romnoelp](https://github.com/romnoelp/romnoelp)<br>
 5. ⬆️ Pushed 1 commit(s) to [romnoelp/romnoelp](https://github.com/romnoelp/romnoelp)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 3rd, 2025, 9:15:46 AM
+Last Updated: Friday, October 3rd, 2025, 9:37:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ## How to reach me:
 You can reach me at the email in my github profile, however, you can also reach me through my socials!
