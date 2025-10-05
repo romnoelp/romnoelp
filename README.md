@@ -33,15 +33,15 @@
 ## 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢:
 I do tend to be often busy, but I'll be sure to make time for development.
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [romnoelp/OJTally](https://github.com/romnoelp/OJTally)<br>
-2. ⬆️ Pushed 1 commit(s) to [romnoelp/OJTally](https://github.com/romnoelp/OJTally)<br>
-3. 📔 Created new repository [romnoelp/OJTally](https://github.com/romnoelp/OJTally)<br>
-4. 📔 Created new repository [romnoelp/OJTally](https://github.com/romnoelp/OJTally)<br>
-5. ⬆️ Pushed 1 commit(s) to [romnoelp/romnoelp](https://github.com/romnoelp/romnoelp)<br>
+1. 💪 Opened PR [#2](https://github.com/Retchizu/neu-queue-admin-web-frontend/pull/2) in [Retchizu/neu-queue-admin-web-frontend](https://github.com/Retchizu/neu-queue-admin-web-frontend)<br>
+2. ⬆️ Pushed 1 commit(s) to [Retchizu/neu-queue-admin-web-frontend](https://github.com/Retchizu/neu-queue-admin-web-frontend)<br>
+3. ⬆️ Pushed 1 commit(s) to [Retchizu/neu-queue-admin-web-frontend](https://github.com/Retchizu/neu-queue-admin-web-frontend)<br>
+4. 💪 Opened PR [#1](https://github.com/Retchizu/neu-queue-admin-web-frontend/pull/1) in [Retchizu/neu-queue-admin-web-frontend](https://github.com/Retchizu/neu-queue-admin-web-frontend)<br>
+5. ⬆️ Pushed 1 commit(s) to [Retchizu/neu-queue-admin-web-frontend](https://github.com/Retchizu/neu-queue-admin-web-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 5th, 2025, 9:13:50 AM
+Last Updated: Sunday, October 5th, 2025, 9:35:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ## How to reach me:
 You can reach me at the email in my github profile, however, you can also reach me through my socials!
