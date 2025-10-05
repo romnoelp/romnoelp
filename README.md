@@ -33,15 +33,15 @@
 ## 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢:
 I do tend to be often busy, but I'll be sure to make time for development.
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#9](https://github.com/Retchizu/neu-queue-admin-web-frontend/pull/9) in [Retchizu/neu-queue-admin-web-frontend](https://github.com/Retchizu/neu-queue-admin-web-frontend)<br>
-2. ⬆️ Pushed 9 commit(s) to [Retchizu/neu-queue-admin-web-frontend](https://github.com/Retchizu/neu-queue-admin-web-frontend)<br>
-3. 💪 Opened PR [#7](https://github.com/Retchizu/neu-queue-admin-web-frontend/pull/7) in [Retchizu/neu-queue-admin-web-frontend](https://github.com/Retchizu/neu-queue-admin-web-frontend)<br>
+1. 💪 Opened PR [#12](https://github.com/Retchizu/neu-queue-admin-web-frontend/pull/12) in [Retchizu/neu-queue-admin-web-frontend](https://github.com/Retchizu/neu-queue-admin-web-frontend)<br>
+2. ⬆️ Pushed 1 commit(s) to [Retchizu/neu-queue-admin-web-frontend](https://github.com/Retchizu/neu-queue-admin-web-frontend)<br>
+3. 💪 Opened PR [#10](https://github.com/Retchizu/neu-queue-admin-web-frontend/pull/10) in [Retchizu/neu-queue-admin-web-frontend](https://github.com/Retchizu/neu-queue-admin-web-frontend)<br>
 4. ⬆️ Pushed 1 commit(s) to [Retchizu/neu-queue-admin-web-frontend](https://github.com/Retchizu/neu-queue-admin-web-frontend)<br>
 5. ⬆️ Pushed 1 commit(s) to [Retchizu/neu-queue-admin-web-frontend](https://github.com/Retchizu/neu-queue-admin-web-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 5th, 2025, 10:37:10 AM
+Last Updated: Sunday, October 5th, 2025, 11:11:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ## How to reach me:
 You can reach me at the email in my github profile, however, you can also reach me through my socials!
