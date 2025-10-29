@@ -34,14 +34,14 @@
 I do tend to be often busy, but I'll be sure to make time for development.
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [romnoelp/enQueue](https://github.com/romnoelp/enQueue)<br>
-2. ⬆️ Pushed undefined commit(s) to [romnoelp/nvim-dotfiles](https://github.com/romnoelp/nvim-dotfiles)<br>
+2. ⬆️ Pushed undefined commit(s) to [romnoelp/enQueue](https://github.com/romnoelp/enQueue)<br>
 3. ⬆️ Pushed undefined commit(s) to [romnoelp/nvim-dotfiles](https://github.com/romnoelp/nvim-dotfiles)<br>
 4. ⬆️ Pushed undefined commit(s) to [romnoelp/nvim-dotfiles](https://github.com/romnoelp/nvim-dotfiles)<br>
-5. ⬆️ Pushed undefined commit(s) to [Retchizu/neu-queue-admin-web-frontend](https://github.com/Retchizu/neu-queue-admin-web-frontend)<br>
+5. ⬆️ Pushed undefined commit(s) to [romnoelp/nvim-dotfiles](https://github.com/romnoelp/nvim-dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 29th, 2025, 10:40:20 PM
+Last Updated: Wednesday, October 29th, 2025, 11:15:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ## How to reach me:
 You can reach me at the email in my github profile, however, you can also reach me through my socials!
