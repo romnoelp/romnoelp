@@ -33,12 +33,13 @@
 ## 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢:
 I do tend to be often busy, but I'll be sure to make time for development.
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [VinceSevilla/RPrime](https://github.com/VinceSevilla/RPrime)<br>
-2. ⭐ Starred [chocoacocoa/Pokedex](https://github.com/chocoacocoa/Pokedex)<br>
+1. ⭐ Starred [Retchizu/tab-labels-extension](https://github.com/Retchizu/tab-labels-extension)<br>
+2. ⭐ Starred [VinceSevilla/RPrime](https://github.com/VinceSevilla/RPrime)<br>
+3. ⭐ Starred [chocoacocoa/Pokedex](https://github.com/chocoacocoa/Pokedex)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 24th, 2025, 4:07:43 AM
+Last Updated: Monday, November 24th, 2025, 4:51:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ## How to reach me:
 You can reach me at the email in my github profile, however, you can also reach me through my socials!
