@@ -39,7 +39,7 @@ I do tend to be often busy, but I'll be sure to make time for development.
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 20th, 2025, 8:17:47 PM
+Last Updated: Saturday, December 20th, 2025, 8:39:44 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ## How to reach me:
 You can reach me at the email in my github profile, however, you can also reach me through my socials!
