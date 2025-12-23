@@ -35,11 +35,10 @@ I do tend to be often busy, but I'll be sure to make time for development.
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [Retchizu/tab-labels-extension](https://github.com/Retchizu/tab-labels-extension)<br>
 2. ⭐ Starred [VinceSevilla/RPrime](https://github.com/VinceSevilla/RPrime)<br>
-3. ⭐ Starred [chocoacocoa/Pokedex](https://github.com/chocoacocoa/Pokedex)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 23rd, 2025, 12:38:20 PM
+Last Updated: Tuesday, December 23rd, 2025, 1:33:28 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ## How to reach me:
 You can reach me at the email in my github profile, however, you can also reach me through my socials!
