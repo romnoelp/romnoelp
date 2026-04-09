@@ -41,7 +41,7 @@ I do tend to be often busy, but I'll be sure to make time for development.
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 9th, 2026, 4:46:14 PM
+Last Updated: Thursday, April 9th, 2026, 5:56:29 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ## How to reach me:
 You can reach me at the email in my github profile, however, you can also reach me through my socials!
