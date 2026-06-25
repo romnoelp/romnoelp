@@ -21,7 +21,7 @@
 
 **College**
 - *BS in Computer Science*
-- New Era University (2022–Present)
+- New Era University (2022–2026)
 
   </td>
     <td valign="top">
